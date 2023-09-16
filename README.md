@@ -5,6 +5,7 @@
 ## Table of Contents
 
 - [Installation](#installation)
+- [Running the Program](#running-the-program)
 - [Usage](#usage)
 - [Constructor](#constructor)
 - [Member Functions](#member-functions)
@@ -20,7 +21,24 @@ To use the `SelfOrganizingSortedList` class, include the `self_organizing_sorted
 ```cpp
 #include "self_organizing_sorted_list.hpp"
 ```
+## Running the Program
 
+To run the program, follow these steps:
+
+1. **Clone the Repository:**
+
+    ```sh
+    git clone https://github.com/your-username/your-repo.git
+    ```
+
+2. **Compile and Execute:**
+
+    ```sh
+    cd your-repo
+    g++ -o main main.cpp self_organizing_sorted_list.cpp
+    ./main
+    ```
+     
 ## Usage
 
 ### Constructor
